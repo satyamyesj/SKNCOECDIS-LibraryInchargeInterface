@@ -1,0 +1,8 @@
+Titles: Century Schoolbook 28pt Bold Italic, 8338D1 [131,56,209]
+AttributesLarge: Century Gothic 24pt Bold, 8338D1 [131,56,209]
+AttributesSmall: Century Gothic 18pt Bold, 8338D1 [131,56,209]
+ButtonNames: Century Gothic 18pt Bold, 8338D1 [131,56,209]
+Borders: Line Border, 836AD1 [131,106,209]
+Selection Highlight Color: CBC0EB [203,192,235]
+Background Color: EBE8F7  [235,232,247]
+
